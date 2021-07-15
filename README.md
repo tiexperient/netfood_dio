@@ -8,3 +8,5 @@ Página com Plataforma Responsiva para a exibição de um Livro Culinário
 * JavaScript
 * HTML
 
+**Desenvolvido por:** Célia Medeiros 💛
+
