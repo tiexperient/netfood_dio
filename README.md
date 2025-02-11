@@ -35,6 +35,6 @@ O **Food Flix 1.0** foi um sucesso, mas eu queria mais! Com minha evolução no 
 
 📢 **Quer ver mais projetos incríveis?**<br>
 🔗 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)<br>
-📝 **Blog:**[Meu Blog Pessoal](https://tiexperient-blog.netlify.app/)<br>
+📝 **Blog:** [Meu Blog Pessoal](https://tiexperient-blog.netlify.app/)<br>
 
 Criado com muito carinho e algumas pitadas de código por **Célia Medeiros** 💛🚀
