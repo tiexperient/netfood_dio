@@ -11,14 +11,14 @@ Criado em Julho de 2021, em um desafio da **Digital Innovation One (DIO),** este
 ✅ **Responsividade total** para acessar do desktop, tablet ou celular 📱💻<br>
 ✅ **Visual Personalizado,** com capas editadas no Photoshop e uma logo feita no Illustrator 🎨✨<br>
 ✅ **Código limpo e organizado,** perfeito para estudo e inspiração 🚀<br>
-<br><br>
+<br>
 
 ## 💻 Tecnologias Utilizadas
 
 🚀 **HTML** & **CSS** – Estrutura e design impecável.<br>
 ⚡ **JavaScript** – Interações e navegação dinâmica.<br>
 🎨 **Bootstrap** – Layout responsivo e moderno.<br>
-<br><br>
+<br>
 
 ## 🔗 Acesse Agora
 
