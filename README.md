@@ -15,9 +15,9 @@ Criado em Julho de 2021, em um desafio da **Digital Innovation One (DIO),** este
 
 ## 💻 Tecnologias Utilizadas
 
-🚀 **HTML** & **CSS** – Estrutura e design impecável.
-⚡ **JavaScript** – Interações e navegação dinâmica.
-🎨 **Bootstrap** – Layout responsivo e moderno.
+🚀 **HTML** & **CSS** – Estrutura e design impecável.<br>
+⚡ **JavaScript** – Interações e navegação dinâmica.<br>
+🎨 **Bootstrap** – Layout responsivo e moderno.<br>
 <br><br>
 
 ## 🔗 Acesse Agora
