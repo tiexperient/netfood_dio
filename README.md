@@ -33,8 +33,8 @@ O **Food Flix 1.0** foi um sucesso, mas eu queria mais! Com minha evolução no 
 🔗 **Demo Online:** [My Food Flix 2.0](https://tiexperient-my-food-flix.netlify.app/)<br>
 👩🏼‍💻 **Código Fonte:** [GitHub - Food Flix 2.0](https://github.com/tiexperient/angular-food-flix)<br>
 
-📢 **Quer ver mais projetos incríveis?**
+📢 **Quer ver mais projetos incríveis?**<br>
 🔗 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)<br>
-📝 **Blog:**[Meu Blog Pessoal](https://tiexperient-blog.netlify.app/) 
+📝 **Blog:**[Meu Blog Pessoal](https://tiexperient-blog.netlify.app/)<br>
 
 Criado com muito carinho e algumas pitadas de código por **Célia Medeiros** 💛🚀
