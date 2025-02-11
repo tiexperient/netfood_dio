@@ -3,6 +3,7 @@
 Se você já imaginou um streaming só de receitas, então **Food Flix** é para você! 🍕🍰🍜
 
 Criado em Julho de 2021, em um desafio da **Digital Innovation One (DIO),** este projeto recria a interface clássica da primeira versão Netflix, mas com um toque especial: no lugar de filmes e séries, temos **receitas incríveis!** 😍
+<br>
 
 ## 🔥 O que tem de especial?
 
@@ -29,8 +30,8 @@ Criado em Julho de 2021, em um desafio da **Digital Innovation One (DIO),** este
 
 O **Food Flix 1.0** foi um sucesso, mas eu queria mais! Com minha evolução no desenvolvimento e domínio do **Angular,** decidi criar uma nova versão **muito mais dinâmica e interativa!** Agora, além de armazenar receitas, você pode **interagir** com os ingredientes, navegar por categorias e até fritar um ovo na tela! 🍳🔥
 
-🔗 **Demo Online:** [My Food Flix 2.0](https://tiexperient-my-food-flix.netlify.app/)
-👩🏼‍💻 **Código Fonte:** [GitHub - Food Flix 2.0](https://github.com/tiexperient/angular-food-flix)
+🔗 **Demo Online:** [My Food Flix 2.0](https://tiexperient-my-food-flix.netlify.app/)<br>
+👩🏼‍💻 **Código Fonte:** [GitHub - Food Flix 2.0](https://github.com/tiexperient/angular-food-flix)<br>
 
 📢 **Quer ver mais projetos incríveis?**
 🔗 **Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)<br>
