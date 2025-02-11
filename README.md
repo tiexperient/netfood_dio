@@ -4,7 +4,7 @@ Se você já imaginou um streaming só de receitas, então **Food Flix** é para
 
 Criado em Julho de 2021, em um desafio da **Digital Innovation One (DIO),** este projeto recria a interface clássica da primeira versão Netflix, mas com um toque especial: no lugar de filmes e séries, temos **receitas incríveis!** 😍
 
-🔥 O que tem de especial?
+## 🔥 O que tem de especial?
 
 ✅ **Interface Estilosa** inspirada no layout da Netflix 🎬🍲<br>
 ✅ **Biblioteca de Receitas** com links diretos para pratos deliciosos! 🤤<br>
