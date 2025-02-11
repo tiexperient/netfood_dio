@@ -26,7 +26,7 @@ Criado em Julho de 2021, em um desafio da **Digital Innovation One (DIO),** este
 🌍 **Demo Online:** [My Food Flix](https://my-food-flix.netlify.app/)
 <br><br>
 
-# 🎉 Food Flix 2.0:** Uma Nova Era!
+# 🎉 Food Flix 2.0: Uma Nova Era!
 
 O **Food Flix 1.0** foi um sucesso, mas eu queria mais! Com minha evolução no desenvolvimento e domínio do **Angular,** decidi criar uma nova versão **muito mais dinâmica e interativa!** Agora, além de armazenar receitas, você pode **interagir** com os ingredientes, navegar por categorias e até fritar um ovo na tela! 🍳🔥
 
